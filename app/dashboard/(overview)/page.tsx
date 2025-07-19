@@ -9,6 +9,8 @@ import {
   RevenueChartSkeleton,
 } from "@/app/ui/skeletons";
 
+// Authentication checks who you are, and authorization determines what you can do or access in the application.
+
 export default async function Page() {
   return (
     <main>
