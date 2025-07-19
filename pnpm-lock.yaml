@@ -25,7 +25,7 @@ specifiers:
   tailwindcss: 3.4.17
   typescript: 5.8.3
   use-debounce: ^10.0.5
-  zod: ^4.0.5
+  zod: ^3.25.17
 
 dependencies:
   '@heroicons/react': 2.2.0_react@19.1.0
@@ -42,7 +42,7 @@ dependencies:
   tailwindcss: 3.4.17
   typescript: 5.8.3
   use-debounce: 10.0.5_react@19.1.0
-  zod: 4.0.5
+  zod: 3.25.76
 
 devDependencies:
   '@types/bcrypt': 6.0.0
@@ -3642,6 +3642,6 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /zod/4.0.5:
-    resolution: {integrity: sha512-/5UuuRPStvHXu7RS+gmvRf4NXrNxpSllGwDnCBcJZtQsKrviYXm54yDGV2KYNLT5kq0lHGcl7lqWJLgSaG+tgA==}
+  /zod/3.25.76:
+    resolution: {integrity: sha512-gzUt/qt81nXsFGKIFcC3YnfEAx5NkunCfnDlvuBSSFS02bcXu4Lmea0AFIUwbLWxWPx3d9p8S5QoaujKcNQxcQ==}
     dev: false
