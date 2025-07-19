@@ -1,5 +1,8 @@
+const metadata = {
+  title: "Customers",
+  description: "Manage your customers here",
+};
+
 export default async function Page() {
-  // Simulate a delay to mimic data fetching
-  await new Promise((resolve) => setTimeout(resolve, 1000));
   return <p>Customers Page</p>;
 }
